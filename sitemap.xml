@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://C1nd4G0d-Bug.github.io/logic-haven/</loc>
+         <lastmod>2026-07-20</lastmod>
+    </url>
+    <url>
+         <loc>https://C1nd4G0d-Bug.github.io/logic-haven/bases_de_datos/sql_basico/</loc>
+         <lastmod>2026-07-20</lastmod>
+    </url>
+    <url>
+         <loc>https://C1nd4G0d-Bug.github.io/logic-haven/ciberseguridad/amenazas_comunes/</loc>
+         <lastmod>2026-07-20</lastmod>
+    </url>
+    <url>
+         <loc>https://C1nd4G0d-Bug.github.io/logic-haven/ciberseguridad/conceptos_basicos/</loc>
+         <lastmod>2026-07-20</lastmod>
+    </url>
+    <url>
+         <loc>https://C1nd4G0d-Bug.github.io/logic-haven/programacion/csharp/</loc>
+         <lastmod>2026-07-20</lastmod>
+    </url>
+    <url>
+         <loc>https://C1nd4G0d-Bug.github.io/logic-haven/programacion/html/</loc>
+         <lastmod>2026-07-20</lastmod>
+    </url>
+    <url>
+         <loc>https://C1nd4G0d-Bug.github.io/logic-haven/programacion/javascript/</loc>
+         <lastmod>2026-07-20</lastmod>
+    </url>
+    <url>
+         <loc>https://C1nd4G0d-Bug.github.io/logic-haven/programacion/python/</loc>
+         <lastmod>2026-07-20</lastmod>
+    </url>
 </urlset>
