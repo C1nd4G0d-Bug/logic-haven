@@ -1,0 +1,20 @@
+site_name: Mis Apuntes de Ingeniería
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: cyan
+    accent: cyan
+
+nav:
+  - 🏠 Inicio: index.md
+  - 💻 Programación:
+      - 🐍 Python: programacion/python.md
+      - 🎯 C#: programacion/csharp.md
+      - 🌐 HTML: programacion/html.md
+      - ⚡ JavaScript: programacion/javascript.md
+  - 🛡️ Ciberseguridad Básica:
+      - 📖 Conceptos Fundamentales: ciberseguridad/conceptos_basicos.md
+      - ⚠️ Amenazas Comunes: ciberseguridad/amenazas_comunes.md
+  - 🗄️ Bases de Datos:
+      - 📊 SQL desde Cero: bases_de_datos/sql_basico.md
