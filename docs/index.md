@@ -2,7 +2,7 @@
 
 Este sitio es mi "segundo cerebro digital". Aquí voy ordenando y publicando los apuntes, laboratorios y proyectos que voy construyendo entre la universidad y la práctica diaria.
 
-Lo diseñé con una idea clara: que me sirva como bitácora de estudio y que cualquiera con curiosidad por la tecnología pueda explorar y aprender sin tropezar con tecnicismos aburridos.
+Lo diseñé con una idea clara: que me sirva como bitácora de estudio y que **cualquiera** con curiosidad por la tecnología pueda explorar y aprender sin tropezar con tecnicismos aburridos.
 
 ---
 
