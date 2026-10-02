@@ -1,13 +1,20 @@
 site_name: Mis Apuntes de Ingeniería
+
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
   palette:
-    scheme: slate
-    primary: cyan
-    accent: cyan
+    - scheme: slate
+      primary: cyan
+      accent: cyan
 
 nav:
   - 🏠 Inicio: index.md
+  - 👤 Sobre mí: about.md
   - 💻 Programación:
       - 🐍 Python: programacion/python.md
       - 🎯 C#: programacion/csharp.md
